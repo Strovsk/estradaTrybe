@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "f222f9e35e1d8ae9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e44597ed5fd413cd",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "427b858cb6230dbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "70a8650d8664e142",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "790a170b6afc16ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "89a11e5308ff4b34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a404f6cb9aebc0a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1495d201863cdf4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3f1c7b6f270065c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e44597ed5fd413cd",
+  "lastOpenFiles": [
+    ".gitignore.md"
+  ]
+}
